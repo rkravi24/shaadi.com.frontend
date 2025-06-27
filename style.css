@@ -133,7 +133,7 @@
 
   /* +++++++++++++ section-3  ++++++++++++++*/
   .section3 {
-      /* border: 2px solid palevioletred; */
+      border: 5px solid palevioletred;
       display: flex;
       flex-direction: column;
       padding: 32px;
